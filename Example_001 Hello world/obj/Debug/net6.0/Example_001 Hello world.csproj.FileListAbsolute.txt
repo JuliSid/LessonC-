@@ -1,0 +1,15 @@
+D:\LessonsC#\Example_001 Hello world\bin\Debug\net6.0\Example_001 Hello world.exe
+D:\LessonsC#\Example_001 Hello world\bin\Debug\net6.0\Example_001 Hello world.deps.json
+D:\LessonsC#\Example_001 Hello world\bin\Debug\net6.0\Example_001 Hello world.runtimeconfig.json
+D:\LessonsC#\Example_001 Hello world\bin\Debug\net6.0\Example_001 Hello world.dll
+D:\LessonsC#\Example_001 Hello world\bin\Debug\net6.0\Example_001 Hello world.pdb
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.csproj.AssemblyReference.cache
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.AssemblyInfoInputs.cache
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.AssemblyInfo.cs
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.csproj.CoreCompileInputs.cache
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.dll
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\refint\Example_001 Hello world.dll
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.pdb
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\Example_001 Hello world.genruntimeconfig.cache
+D:\LessonsC#\Example_001 Hello world\obj\Debug\net6.0\ref\Example_001 Hello world.dll
